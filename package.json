@@ -1,0 +1,16 @@
+{
+  "name": "thepersonnextdoor",
+  "version": "1.0.0",
+  "description": "knowing you next door ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "knowing",
+    "you",
+    "next"
+  ],
+  "author": "",
+  "license": "ISC"
+}
